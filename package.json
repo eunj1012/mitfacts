@@ -19,5 +19,8 @@
   "dependencies": {
     "course-utilities": "^1.0.0",
     "jest": "^26.1.0"
+  },
+  "devDependencies": {
+    "webpack": "^5.72.1"
   }
 }
